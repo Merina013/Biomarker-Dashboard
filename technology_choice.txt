@@ -1,0 +1,49 @@
+TECHNOLOGY JUSTIFICATION DOCUMENT
+Life Sciences Research Intelligence Dashboard — Task 5
+Author: Merina Roy
+======================================================
+
+STORAGE CHOICE: CSV (biomarker_analytics_data.csv)
+---------------------------------------------------
+CSV was selected as the data storage mechanism for the following reasons:
+
+1. SIMPLICITY & PORTABILITY
+   CSV files require no database server setup, no authentication, and no
+   connection management. They are universally readable and shareable,
+   making the project easy to run in any environment.
+
+2. DATASET SIZE
+   With 120 records and 12 fields, the dataset is well within the range
+   where CSV performs efficiently. A relational database (MySQL) or document
+   store (MongoDB) would introduce unnecessary overhead for this scale.
+
+3. PYTHON COMPATIBILITY
+   Python's built-in `csv` module and the pandas library provide first-class
+   CSV support — reading, filtering, and aggregating data is fast and
+   requires no external server or driver dependencies.
+
+4. DEPLOYMENT FRIENDLINESS
+   Streamlit Community Cloud (the chosen deployment platform) supports CSV
+   files natively as static assets in the repository. No secrets, connection
+   strings, or cloud database credentials are required.
+
+5. WHY NOT MySQL / MongoDB?
+   - MySQL requires a running server, schema creation, and a connector
+     library — unnecessary complexity for a read-only analytics dashboard.
+   - MongoDB adds document-store overhead and a cloud cluster dependency
+     that does not benefit structured, tabular biomarker data.
+   - JSON could work but offers no advantage over CSV for tabular data and
+     is less convenient for pandas operations.
+
+FRAMEWORK CHOICE: Streamlit
+---------------------------------------------------
+Streamlit was chosen over a terminal-based (CLI) interface because:
+- It provides an interactive, browser-based UI accessible to all users
+  without Python knowledge.
+- It supports charts, tables, filters, download buttons, and alerts
+  out of the box with minimal code.
+- Deployment to Streamlit Community Cloud is free, fast (< 5 minutes),
+  and publicly accessible via URL — fulfilling the bonus deployment
+  requirement.
+
+WORD COUNT: ~190 words

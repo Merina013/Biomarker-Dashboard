@@ -1,0 +1,121 @@
+Biomarker_ID,Biomarker_Name,Disease_Area,Researcher_Name,Country,Validation_Status,Priority_Level,Risk_Level,Sample_Type,Sample_Count,Accuracy_Percentage,Study_Year
+BM0001,CRP,Oncology,Dr. Ananya Iyer,Germany,Pending,High,Low,Blood,1166,63.47,2021
+BM0002,PSA,Oncology,Dr. Arjun Mehta,Germany,Pending,Low,Low,Blood,1199,67.93,2023
+BM0003,eGFR,Hematology,Dr. Vikram Nair,France,In Review,High,High,CSF,915,73.58,2019
+BM0004,TNF-Alpha,Infectious Disease,Dr. Arjun Mehta,USA,Rejected,High,Medium,Tissue,591,92.2,2023
+BM0005,PCT,Cardiology,Dr. Meena Pillai,USA,In Review,Low,Low,Tissue,443,88.11,2018
+BM0006,VEGF,Endocrinology,Dr. Arjun Mehta,Germany,Validated,Medium,Medium,Plasma,797,66.49,2020
+BM0007,TNF-Alpha,Endocrinology,Dr. Arjun Mehta,UK,Pending,High,Medium,Plasma,602,99.48,2023
+BM0008,eGFR,Immunology,Dr. Rohit Gupta,India,Pending,High,Medium,Plasma,598,62.64,2022
+BM0009,Beta-HCG,Immunology,Dr. Karan Singh,Australia,Rejected,High,Medium,Urine,555,89.73,2022
+BM0010,CEA,Hematology,Dr. Sanjay Patel,Australia,In Review,High,High,Serum,1060,63.63,2018
+BM0011,CRP,Neurology,Dr. Sunita Rao,Australia,Validated,Medium,Medium,Serum,1008,81.11,2022
+BM0012,CA-125,Cardiology,Dr. Divya Reddy,Japan,In Review,High,Medium,Plasma,373,78.1,2023
+BM0013,CEA,Neurology,Dr. Divya Reddy,USA,In Review,Low,Low,Serum,457,66.1,2024
+BM0014,IL-6,Oncology,Dr. Sanjay Patel,Canada,Rejected,High,High,Tissue,679,69.55,2019
+BM0015,LDH,Cardiology,Dr. Arjun Mehta,France,Validated,Low,High,Urine,1023,97.78,2019
+BM0016,CEA,Hematology,Dr. Vikram Nair,Germany,In Review,Medium,Low,CSF,814,77.48,2022
+BM0017,PCT,Cardiology,Dr. Vikram Nair,Germany,Validated,Medium,High,Serum,1184,69.18,2019
+BM0018,CA-125,Cardiology,Dr. Priya Sharma,Germany,Validated,High,Medium,Blood,1102,69.5,2023
+BM0019,Albumin,Immunology,Dr. Divya Reddy,UK,Rejected,High,Medium,Plasma,439,63.76,2023
+BM0020,Ferritin,Infectious Disease,Dr. Meena Pillai,Australia,Rejected,Low,High,CSF,251,62.42,2023
+BM0021,Beta-HCG,Cardiology,Dr. Vikram Nair,Germany,Pending,Low,Medium,Urine,914,67.32,2021
+BM0022,VEGF,Cardiology,Dr. Karan Singh,USA,Validated,Low,Low,Blood,241,96.96,2024
+BM0023,VEGF,Neurology,Dr. Meena Pillai,France,Rejected,High,Medium,Blood,387,75.12,2021
+BM0024,CEA,Rheumatology,Dr. Ananya Iyer,Australia,Rejected,High,High,Tissue,495,98.65,2022
+BM0025,eGFR,Oncology,Dr. Rohit Gupta,India,Validated,Low,Medium,Serum,1137,66.28,2022
+BM0026,HbA1c,Neurology,Dr. Arjun Mehta,USA,Pending,Medium,High,Serum,554,83.1,2018
+BM0027,NSE,Cardiology,Dr. Meena Pillai,Canada,In Review,High,Low,CSF,693,69.52,2021
+BM0028,Troponin I,Endocrinology,Dr. Karan Singh,Canada,Validated,High,Medium,Serum,254,62.92,2019
+BM0029,Creatinine,Endocrinology,Dr. Sunita Rao,Canada,Validated,High,Medium,Tissue,373,77.48,2022
+BM0030,AFP,Oncology,Dr. Divya Reddy,Japan,Validated,High,Medium,Blood,269,89.62,2019
+BM0031,CEA,Endocrinology,Dr. Sanjay Patel,Germany,In Review,High,Low,CSF,590,80.17,2020
+BM0032,PSA,Cardiology,Dr. Meena Pillai,Japan,Validated,High,Medium,Urine,586,66.45,2021
+BM0033,eGFR,Hematology,Dr. Divya Reddy,India,Validated,High,Low,Urine,1167,61.44,2020
+BM0034,LDH,Neurology,Dr. Meena Pillai,UK,Validated,Medium,Medium,Blood,782,68.38,2019
+BM0035,CRP,Infectious Disease,Dr. Divya Reddy,Australia,Pending,High,High,Urine,894,60.99,2023
+BM0036,Beta-HCG,Hematology,Dr. Vikram Nair,Japan,Pending,Low,High,Plasma,129,94.26,2019
+BM0037,TNF-Alpha,Rheumatology,Dr. Rohit Gupta,Japan,Pending,High,High,CSF,445,75.9,2020
+BM0038,HbA1c,Endocrinology,Dr. Rohit Gupta,Australia,In Review,High,High,Tissue,415,83.17,2020
+BM0039,PSA,Cardiology,Dr. Sanjay Patel,Australia,In Review,Low,Medium,Plasma,1097,64.61,2022
+BM0040,TNF-Alpha,Endocrinology,Dr. Priya Sharma,Australia,Validated,Low,Low,CSF,453,74.53,2018
+BM0041,Beta-HCG,Infectious Disease,Dr. Arjun Mehta,Japan,In Review,Low,Medium,Tissue,874,87.82,2022
+BM0042,Troponin I,Immunology,Dr. Meena Pillai,Australia,Pending,Low,Low,Tissue,881,81.86,2018
+BM0043,AFP,Endocrinology,Dr. Vikram Nair,Australia,In Review,Medium,Medium,Plasma,487,80.4,2024
+BM0044,IL-6,Cardiology,Dr. Ananya Iyer,Canada,Validated,High,Low,Tissue,510,92.18,2019
+BM0045,CA-125,Oncology,Dr. Vikram Nair,France,Validated,Medium,Medium,CSF,448,88.66,2021
+BM0046,Albumin,Hematology,Dr. Vikram Nair,UK,Validated,High,Medium,Urine,410,92.08,2023
+BM0047,Creatinine,Rheumatology,Dr. Priya Sharma,Germany,Validated,Medium,High,Plasma,1137,99.42,2022
+BM0048,Beta-HCG,Rheumatology,Dr. Sanjay Patel,Australia,Rejected,High,Low,Plasma,971,70.34,2019
+BM0049,CEA,Rheumatology,Dr. Vikram Nair,Japan,Rejected,High,Low,Tissue,530,70.84,2020
+BM0050,eGFR,Cardiology,Dr. Sunita Rao,UK,Pending,Medium,Low,Urine,488,62.56,2021
+BM0051,Beta-HCG,Rheumatology,Dr. Meena Pillai,India,Pending,Medium,Medium,Serum,90,94.18,2024
+BM0052,LDH,Hematology,Dr. Karan Singh,India,In Review,Medium,Medium,Plasma,1152,89.83,2022
+BM0053,NSE,Immunology,Dr. Karan Singh,Germany,In Review,Medium,Medium,Blood,846,73.41,2023
+BM0054,BNP,Neurology,Dr. Karan Singh,UK,Validated,Medium,Low,Serum,105,63.35,2021
+BM0055,Troponin I,Rheumatology,Dr. Sunita Rao,India,In Review,Medium,Medium,Urine,981,73.04,2024
+BM0056,BNP,Endocrinology,Dr. Meena Pillai,Japan,Validated,Medium,High,CSF,1154,62.08,2020
+BM0057,VEGF,Cardiology,Dr. Priya Sharma,India,Pending,High,High,Serum,362,69.52,2021
+BM0058,CRP,Immunology,Dr. Karan Singh,Japan,In Review,High,Low,Serum,284,91.03,2019
+BM0059,AFP,Cardiology,Dr. Sanjay Patel,India,In Review,Low,Low,Plasma,862,97.56,2019
+BM0060,HbA1c,Immunology,Dr. Arjun Mehta,Japan,Validated,Low,High,Tissue,1141,77.09,2020
+BM0061,HbA1c,Infectious Disease,Dr. Priya Sharma,Australia,Rejected,High,Medium,Tissue,991,88.22,2021
+BM0062,IL-6,Endocrinology,Dr. Sanjay Patel,France,Rejected,Medium,Low,Serum,599,72.86,2019
+BM0063,HbA1c,Endocrinology,Dr. Karan Singh,Germany,Rejected,Low,Low,CSF,826,73.42,2021
+BM0064,Beta-HCG,Neurology,Dr. Karan Singh,Germany,In Review,Medium,Medium,Tissue,615,82.18,2022
+BM0065,TNF-Alpha,Cardiology,Dr. Vikram Nair,Australia,Rejected,Low,High,CSF,1025,85.77,2021
+BM0066,PCT,Oncology,Dr. Arjun Mehta,Japan,Pending,Medium,Low,Urine,677,86.49,2020
+BM0067,Albumin,Infectious Disease,Dr. Meena Pillai,Canada,In Review,Low,Medium,Tissue,677,70.03,2018
+BM0068,TNF-Alpha,Infectious Disease,Dr. Arjun Mehta,UK,Pending,High,Low,Plasma,616,88.91,2024
+BM0069,Creatinine,Endocrinology,Dr. Arjun Mehta,Germany,In Review,High,Medium,Urine,669,60.56,2022
+BM0070,Troponin I,Endocrinology,Dr. Priya Sharma,India,In Review,Low,High,CSF,1055,64.09,2018
+BM0071,LDH,Endocrinology,Dr. Karan Singh,France,Rejected,Medium,High,Blood,567,97.55,2021
+BM0072,CRP,Cardiology,Dr. Meena Pillai,France,Validated,Low,Low,CSF,159,66.05,2024
+BM0073,LDH,Endocrinology,Dr. Arjun Mehta,Germany,Validated,Low,Medium,Serum,512,90.95,2021
+BM0074,PCT,Rheumatology,Dr. Ananya Iyer,Australia,In Review,Low,Low,Blood,253,97.81,2019
+BM0075,TNF-Alpha,Endocrinology,Dr. Arjun Mehta,UK,Pending,High,Low,Blood,370,60.11,2021
+BM0076,NSE,Rheumatology,Dr. Ananya Iyer,India,Pending,Medium,Low,Tissue,979,62.84,2019
+BM0077,CEA,Immunology,Dr. Meena Pillai,USA,Pending,Low,High,Tissue,341,62.85,2019
+BM0078,AFP,Endocrinology,Dr. Karan Singh,USA,Rejected,Low,Medium,CSF,874,97.61,2022
+BM0079,eGFR,Rheumatology,Dr. Karan Singh,USA,Validated,Medium,Low,Tissue,562,61.03,2019
+BM0080,LDH,Oncology,Dr. Ananya Iyer,India,Pending,Medium,Low,CSF,955,96.55,2019
+BM0081,LDH,Hematology,Dr. Karan Singh,USA,Rejected,Medium,Medium,Tissue,707,86.74,2024
+BM0082,IL-6,Infectious Disease,Dr. Meena Pillai,France,In Review,Low,Medium,Serum,125,78.15,2020
+BM0083,CEA,Infectious Disease,Dr. Arjun Mehta,Australia,Validated,Low,Low,Plasma,896,62.16,2022
+BM0084,D-Dimer,Rheumatology,Dr. Karan Singh,India,Pending,Medium,Low,Urine,639,77.48,2023
+BM0085,Albumin,Cardiology,Dr. Priya Sharma,Germany,Pending,Medium,Low,Blood,1181,76.28,2019
+BM0086,CRP,Rheumatology,Dr. Arjun Mehta,UK,Rejected,Low,Medium,Serum,609,76.58,2021
+BM0087,Albumin,Immunology,Dr. Karan Singh,UK,Rejected,High,Low,Serum,329,94.47,2020
+BM0088,Ferritin,Infectious Disease,Dr. Divya Reddy,Japan,Validated,Medium,Low,Tissue,1052,94.52,2021
+BM0089,eGFR,Rheumatology,Dr. Rohit Gupta,Canada,Rejected,Medium,Medium,Urine,539,82.81,2019
+BM0090,Ferritin,Oncology,Dr. Rohit Gupta,France,Rejected,Medium,Low,CSF,361,79.76,2018
+BM0091,Troponin I,Infectious Disease,Dr. Arjun Mehta,France,Validated,Low,Medium,Blood,345,76.36,2023
+BM0092,Troponin I,Cardiology,Dr. Karan Singh,Japan,In Review,Low,Low,Plasma,214,93.99,2024
+BM0093,eGFR,Hematology,Dr. Rohit Gupta,France,Validated,Low,High,Urine,638,99.8,2023
+BM0094,HbA1c,Hematology,Dr. Arjun Mehta,USA,Rejected,High,Low,Tissue,109,61.84,2024
+BM0095,PSA,Endocrinology,Dr. Rohit Gupta,Canada,Rejected,High,High,Serum,893,82.58,2024
+BM0096,IL-6,Neurology,Dr. Sunita Rao,USA,Rejected,Low,Low,Urine,1069,96.42,2019
+BM0097,VEGF,Rheumatology,Dr. Ananya Iyer,France,In Review,Low,High,Plasma,639,87.04,2019
+BM0098,HbA1c,Rheumatology,Dr. Rohit Gupta,Japan,Rejected,Low,Medium,Plasma,668,67.95,2021
+BM0099,Albumin,Cardiology,Dr. Vikram Nair,Australia,In Review,Low,Medium,CSF,654,60.88,2024
+BM0100,BNP,Endocrinology,Dr. Priya Sharma,India,Rejected,Medium,High,Serum,771,68.74,2019
+BM0101,NSE,Endocrinology,Dr. Sunita Rao,USA,Validated,Medium,Medium,Blood,797,89.22,2018
+BM0102,AFP,Infectious Disease,Dr. Meena Pillai,UK,Pending,High,Low,Tissue,1137,80.02,2020
+BM0103,IL-6,Endocrinology,Dr. Karan Singh,Japan,In Review,High,Medium,Blood,338,90.09,2019
+BM0104,BNP,Infectious Disease,Dr. Arjun Mehta,Australia,Validated,Medium,Low,Blood,981,74.71,2023
+BM0105,CEA,Hematology,Dr. Rohit Gupta,USA,Pending,Medium,High,Serum,1199,73.09,2022
+BM0106,VEGF,Cardiology,Dr. Karan Singh,Japan,Rejected,High,High,Blood,126,72.14,2021
+BM0107,CRP,Cardiology,Dr. Vikram Nair,UK,Rejected,Medium,Medium,CSF,1156,76.72,2023
+BM0108,Troponin I,Hematology,Dr. Arjun Mehta,France,Rejected,Medium,High,CSF,808,68.67,2021
+BM0109,VEGF,Infectious Disease,Dr. Arjun Mehta,Canada,In Review,High,Medium,Tissue,438,98.63,2024
+BM0110,PCT,Cardiology,Dr. Vikram Nair,India,Validated,Medium,High,Urine,470,62.74,2024
+BM0111,eGFR,Immunology,Dr. Sanjay Patel,Germany,Pending,Medium,High,Serum,55,71.06,2019
+BM0112,Troponin I,Endocrinology,Dr. Sunita Rao,USA,Validated,High,High,Tissue,537,83.5,2018
+BM0113,IL-6,Endocrinology,Dr. Priya Sharma,UK,Rejected,Low,High,CSF,180,79.0,2024
+BM0114,D-Dimer,Cardiology,Dr. Karan Singh,Germany,Validated,Low,Low,Serum,667,78.28,2018
+BM0115,PSA,Rheumatology,Dr. Meena Pillai,Australia,Validated,Medium,Low,Plasma,200,95.88,2020
+BM0116,NSE,Neurology,Dr. Arjun Mehta,UK,In Review,Low,Low,Serum,1173,88.41,2021
+BM0117,NSE,Endocrinology,Dr. Karan Singh,Australia,Validated,Low,High,CSF,1179,88.76,2019
+BM0118,Ferritin,Rheumatology,Dr. Vikram Nair,Australia,In Review,Medium,Medium,Plasma,244,72.47,2020
+BM0119,CEA,Infectious Disease,Dr. Sunita Rao,France,Validated,High,High,Blood,934,63.85,2023
+BM0120,D-Dimer,Neurology,Dr. Divya Reddy,India,In Review,Low,High,Plasma,774,94.86,2024
